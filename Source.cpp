@@ -222,8 +222,8 @@ public:
 int main() {
     PhoneBook phoneBook;
 
-    Contact contact1("John Doe", "123-456", "789-101", "111-222", "Friend from work");
-    Contact contact2("Jane Smith", "987-654", "321-432", "333-444", "Work colleague");
+    Contact contact1("John Doe", "067-482-83-45", "789-101", "111-222", "Friend from work");
+    Contact contact2("Jane Smith", "067-987-65-46", "321-432", "333-444", "Work colleague");
 
     phoneBook.addContact(contact1);
     phoneBook.addContact(contact2);
